@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Allan, and I am currently a student.
 ## Coding is a hobby of mine that I've had for a while.
-## I am also a videogame enthusiast!
+## I am also a space science, physics, and math enthusiast.
 
 ## My pronouns are He/Him.
 
