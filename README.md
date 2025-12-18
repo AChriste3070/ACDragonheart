@@ -2,8 +2,6 @@
 ## Coding is a hobby of mine that I've had for a while.
 ## I am also a space science, physics, and math enthusiast.
 
-## My pronouns are He/Him.
-
 
 <!--
 **ACDragonheart/ACDragonheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
